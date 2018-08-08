@@ -1,0 +1,27 @@
+body {
+  background-color: #292929;
+}
+
+footer {
+  background-color: #3a068d;
+  color: white;
+}
+
+.navbar {
+  background-color: rgb(88, 1, 223); 
+}
+
+.jumbotron {
+  background-color: #3a068d;
+}
+
+.btn {
+  background-color: #e1bd04;
+  border-color: #e1bd04;
+  color: white;
+}
+.btn:hover {
+  background-color: #f5d847;
+  border-color: #f5d847;
+  color: white;
+}
