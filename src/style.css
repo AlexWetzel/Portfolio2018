@@ -25,3 +25,8 @@ footer {
   border-color: #f5d847;
   color: white;
 }
+
+.icon {
+  height: 40px;
+  width: auto;
+}
