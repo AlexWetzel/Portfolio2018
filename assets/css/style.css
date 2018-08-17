@@ -2,18 +2,19 @@ body {
   background-color: #292929;
 }
 
-footer {
+footer, .jumbotron, .bg2 {
   background-color: #3a068d;
   color: white;
+  overflow: auto;
 }
 
 .navbar {
   background-color: rgb(88, 1, 223); 
 }
 
-.jumbotron {
+/* .jumbotron {
   background-color: #3a068d;
-}
+} */
 
 .btn {
   background-color: #e1bd04;
@@ -28,5 +29,16 @@ footer {
 
 .icon {
   height: 40px;
+  width: auto;
+}
+
+.tech-icon {
+  overflow: auto;
+  height: 500px;
+
+}
+
+.tech-icon img {
+  height: 100px;
   width: auto;
 }
