@@ -39,6 +39,7 @@ footer, .jumbotron, .bg2 {
 }
 
 .tech-icon img {
-  height: 100px;
-  width: auto;
+
+  max-height: 100px;
+  max-width: 250px;
 }
