@@ -1,10 +1,29 @@
-body {
+/* body {
   background-color: #292929;
+} */
+body {
+  background-color: #e4e4e4;
 }
 
-footer, .jumbotron, .bg2 {
+h2 {
+  color: rgb(97, 97, 97);
+  margin-bottom: 20px;
+}
+
+footer, .jumbotron {
   background-color: #3a068d;
   color: white;
+  overflow: auto;
+}
+
+/* .bg2 {
+  background-color: #3a068d;
+  color: white;
+  overflow: auto;
+} */
+.bg2 {
+  background-color: #ffffff;
+  /* color: white; */
   overflow: auto;
 }
 
@@ -39,7 +58,13 @@ footer, .jumbotron, .bg2 {
 }
 
 .tech-icon img {
-
+  margin-bottom: 20px;
   max-height: 100px;
   max-width: 250px;
+}
+
+.button-icon {
+  height: 40px;
+  width: auto;
+  margin: 0px 10px 0px -8px;
 }
